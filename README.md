@@ -29,4 +29,4 @@ The website is working probably and you can actually place an order and it would
 ![4](https://user-images.githubusercontent.com/32971941/64804416-13c18500-d58f-11e9-9a72-353266d54536.PNG)
 
 
-If you want the user and password for this wordpress website, just send me email to "momoahmed1225@gmail.com"
+If you want the user and password for this wordpress website, just send me an email to "momoahmed1225@gmail.com"
