@@ -1,7 +1,7 @@
 # Console-Store-Website-using-WordPress
-This is an online store which allow you to order any console such as PlayStation, XBOX or ,Nintendo. 
+This is an online store which allows you to order any console such as PlayStation, XBOX or, Nintendo. 
 
-You can also order console accessories such as sterring wheel,games, etc.
+You can also order console accessories such as steering wheel,games, etc.
 
 The website is working probably and you can actually place an order and it would appar in your dashboard.
 
